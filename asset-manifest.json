@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/marketplace-near/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/marketplace-near/static/js/main.64e2eed5.chunk.js",
+    "main.js.map": "/marketplace-near/static/js/main.64e2eed5.chunk.js.map",
+    "runtime-main.js": "/marketplace-near/static/js/runtime-main.6c47e0e8.js",
+    "runtime-main.js.map": "/marketplace-near/static/js/runtime-main.6c47e0e8.js.map",
+    "static/css/2.f284562c.chunk.css": "/marketplace-near/static/css/2.f284562c.chunk.css",
+    "static/js/2.bd309c82.chunk.js": "/marketplace-near/static/js/2.bd309c82.chunk.js",
+    "static/js/2.bd309c82.chunk.js.map": "/marketplace-near/static/js/2.bd309c82.chunk.js.map",
+    "static/js/3.63bbb509.chunk.js": "/marketplace-near/static/js/3.63bbb509.chunk.js",
+    "static/js/3.63bbb509.chunk.js.map": "/marketplace-near/static/js/3.63bbb509.chunk.js.map",
+    "index.html": "/marketplace-near/index.html",
+    "static/css/2.f284562c.chunk.css.map": "/marketplace-near/static/css/2.f284562c.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/marketplace-near/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.bd309c82.chunk.js.LICENSE.txt": "/marketplace-near/static/js/2.bd309c82.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/marketplace-near/static/media/bootstrap-icons.c1d7432e.woff",
+    "static/media/sandwich.2d312449.jpg": "/marketplace-near/static/media/sandwich.2d312449.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c47e0e8.js",
+    "static/css/2.f284562c.chunk.css",
+    "static/js/2.bd309c82.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.64e2eed5.chunk.js"
+  ]
+}
